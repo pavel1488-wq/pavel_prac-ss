@@ -1,0 +1,7 @@
+start
+new a number
+new b number
+set a 2
+set b 2
+log number a + b
+finish
